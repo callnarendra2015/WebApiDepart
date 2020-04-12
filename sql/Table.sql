@@ -1,0 +1,16 @@
+--create database DepartmentStore
+--go
+--use DepartmentStore
+--go
+--create table Departments
+--(
+--DepartmentId int identity,
+--DepartName varchar(30)
+--)
+--go
+--insert into Departments values('IT')
+--insert into Departments values('Account')
+--insert into Departments values('HR')
+--insert into Departments values('Admin')
+--insert into Departments values('Software')
+--insert into Departments values('Beauty')
